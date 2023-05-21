@@ -1,0 +1,25 @@
+{
+  "name": "myfirstnpm-log-lcs",
+  "version": "1.0.0",
+  "description": "显示一行log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senlin1588/npm-myfirst-node-test-lcs.git"
+  },
+  "keywords": [
+    "console.log"
+  ],
+  "author": "lcs",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    
+  }
+}
