@@ -1,6 +1,6 @@
 {
   "name": "myfirstnpm-log-lcs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "显示一行log",
   "main": "index.js",
   "scripts": {
